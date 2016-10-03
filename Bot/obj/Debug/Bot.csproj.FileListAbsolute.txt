@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2013\Projects\Bot\Bot\bin\Debug\Bot.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Bot\Bot\bin\Debug\Bot.exe
+c:\users\admin\documents\visual studio 2013\Projects\Bot\Bot\bin\Debug\Bot.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Bot\Bot\obj\Debug\Bot.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Bot\Bot\obj\Debug\Bot.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Bot\Bot\obj\Debug\Bot.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Bot\Bot\obj\Debug\Bot.exe
+c:\users\admin\documents\visual studio 2013\Projects\Bot\Bot\obj\Debug\Bot.pdb
+E:\Прикладне програмування\Bot for typeracer.com\Bot\bin\Debug\Bot.exe.config
+E:\Прикладне програмування\Bot for typeracer.com\Bot\obj\Debug\Bot.exe
+E:\Прикладне програмування\Bot for typeracer.com\Bot\obj\Debug\Bot.pdb
+E:\Прикладне програмування\Bot for typeracer.com\Bot\bin\Debug\Bot.exe
+E:\Прикладне програмування\Bot for typeracer.com\Bot\bin\Debug\Bot.pdb
+E:\Прикладне програмування\Bot for typeracer.com\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+E:\Прикладне програмування\Bot for typeracer.com\Bot\obj\Debug\Bot.Form1.resources
+E:\Прикладне програмування\Bot for typeracer.com\Bot\obj\Debug\Bot.Properties.Resources.resources
+E:\Прикладне програмування\Bot for typeracer.com\Bot\obj\Debug\Bot.csproj.GenerateResource.Cache
